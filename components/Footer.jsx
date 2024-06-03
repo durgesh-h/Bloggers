@@ -9,25 +9,25 @@ const Footer = () => {
         <ul className="flex flex-row justify-center">
           <li>
             <a
-              href="https://sonalkumari.vercel.app"
+              href="https://durgeshprasad.co"
               target="_blank"
               className="hover:text-white"
             >
-              Sonal Kumari
+              Durgesh Prasad
             </a>
           </li>
         </ul>
         <div className="flex flex-col space-y-8 items-center justify-center">
           <div className="flex gap-6">
             <a
-              href="https://github.com/Sonalkri2004"
+              href="https://github.com/durgesh-h"
               target="_blank"
               className="hover:text-white"
             >
               <FaGithub className="hover:text-purple-500 transition-all duration-300" />
             </a>
             <a
-              href="https://www.linkedin.com/in/sonal-k-69008a280/"
+              href="https://www.linkedin.com/in/durgesh-h/"
               target="_blank"
               className="hover:text-white"
             >

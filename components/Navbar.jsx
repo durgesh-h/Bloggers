@@ -38,7 +38,7 @@ const Navbar = () => {
       <div className="container mx-auto py-4 px-6 flex justify-between items-center">
         <Link href="/">
           <h2 className="text-2xl font-bold cursor-pointer">
-            Blog<span className="special-word">App.</span>
+            <span className="special-word">Blog</span>ite.
           </h2>
         </Link>
 
